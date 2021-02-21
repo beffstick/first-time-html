@@ -1,0 +1,89 @@
+﻿h1 { 
+color: #05668D;
+text-align: center;
+font-size: 50pt;
+}
+body {
+background-image: url("img/12345.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p {
+color: #F0F3BD;
+font-size: 14pt;
+}
+h2 {
+color: #e2e77e;
+font-size: 30pt;
+text-align: center;
+}
+h3 {
+color: #e2e77e;
+font-size: 16pt;
+text-align: center;
+}
+.topnav {
+  float: middle;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16pt;
+} 
+.column {
+float:left;
+width: 25%;
+}
+.card {
+background-color: #05668D;
+padding: 0px;
+margin: 15px;
+border-radius: 8px;
+opacity: 0.92
+}
+div.a {
+text-align:center;
+}
+div.b {
+text-align:center;
+}
+div.c {
+text-align:center;
+}
+a:link {
+  color: #F0F3BD;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #F0F3BD;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #028090;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: #02C39A;
+  background-color: transparent;
+  text-decoration: none;
+}
+ .column1 {
+float:left;
+width: 16.5%;
+ }
+ .card1{
+ background-color: #05668D;
+padding: 0px;
+margin: 10px;
+border-radius: 8px;
+opacity: 0.92
+ }
